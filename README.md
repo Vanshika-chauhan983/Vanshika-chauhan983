@@ -1,5 +1,5 @@
-<h1>Hi there,
-  I'm Vanshika Chauhan 👋</h1>
+<h1>Hi there,<h1>
+<h1>I'm Vanshika Chauhan 👋</h1>
 
 <p align="center">
   💻 Android Developer | 🌐 Firebase Enthusiast | 🐍 Python Programmer | 🧠 DSA Learner | 💡 Passionate about learning and building useful apps
