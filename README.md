@@ -28,20 +28,24 @@
 
 ### 📱 Highlight Projects
 
-#### 🍔 Food Delivery App
+#### 🍔 Food Delivery App (Kotlin + Firebase)
 - Built an Android app to browse food items via **third-party API** and manage a cart.
 - Used **Firebase Realtime Database** for storing cart data and **Firebase Auth** for user authentication.
 - Created **user profiles**, implemented navigation across fragments, and built a fully functional UI using XML.
 
-#### 📝 Note-Taking App (Jetpack Compose)
+#### 📝 Note-Taking App (Jetpack Compose + Clean Architecture)
 - Created a modern **note-taking app** using **Jetpack Compose** with ViewModel for state handling.
 - Used Room for local storage and implemented features like add, delete, and edit notes.
+- Implemented principles of clean architecture
 
-#### ✅ CLI Task Assistant (Python)
-- A lightweight command-line task manager built with Python.
-- Supports adding, viewing, editing, and deleting tasks through simple commands.
-- Designed to help improve productivity and task organization from the terminal.
-- Working on integrating **Gemini API** for smart task suggestions.
+#### ✅ CLI Task Assistant (Python + SQLite + Gemini-1.5-Flash)
+- A smart, minimal **command-line task manager** written in **Python**.
+- Utilizes **Gemini-1.5-Flash** to understand and respond to **natural language inputs**.
+- Uses **SQLite** to persist tasks locally across sessions.
+- Features:
+  - Add/view/delete tasks via terminal
+  - Natural Language task input (e.g., “Remind me to call mom tomorrow”)
+  - Smart suggestions using Gemini’s NLP capabilities
 
 ---
 
