@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika-chauhan983&show_icons=true&theme=radical" alt="Vanshika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika-chauhan983&show_icons=true&theme=radical&cache_seconds=1" alt="Vanshika's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika-chauhan983&layout=compact&theme=radical" alt="Vanshika's Most Used Languages" />
 </p>
 
