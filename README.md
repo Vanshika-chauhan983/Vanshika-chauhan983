@@ -4,6 +4,8 @@
   💻 Android Developer | 🌐 Firebase Enthusiast | 🐍 Python Programmer | 🧠 DSA Learner | 💡 Passionate about learning and building useful apps
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Vanshika-chauhan983&color=blue)
+
 ---
 
 ### 👩‍💻 About Me
