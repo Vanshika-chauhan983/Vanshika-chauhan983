@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-org.vercel.app/api?username=Vanshika-chauhan983&show_icons=true&theme=radical" alt="Vanshika's GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=Vanshika-chauhan983&layout=compact&theme=radical" alt="Vanshika's Most Used Languages" />
+  ![GitHub followers](https://img.shields.io/github/followers/Vanshika-chauhan983?style=social)
+  ![Top language placeholder](https://img.shields.io/badge/top--lang-Python-blue)
 </p>
 
 ---
