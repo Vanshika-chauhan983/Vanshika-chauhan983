@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Vanshika-chauhan983?style=social)
-  ![Top language placeholder](https://img.shields.io/badge/top--lang-Python-blue)
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: vanshikachauhan004@gmail.com
